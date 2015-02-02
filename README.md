@@ -8,8 +8,8 @@
 * ~~Setting up the game~~
 * ~~Moving the player~~
 * ~~Moving the camera~~
-* Creating pick-up objects
-* Collecting and counting
+* ~~Creating pick-up objects~~
+* ~~Collecting and counting~~(Los objetos-puntos tienen collider)
 * Displaying text
 * Publishing the game
 
