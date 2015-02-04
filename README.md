@@ -10,8 +10,8 @@
 * ~~Moving the camera~~
 * ~~Creating pick-up objects~~
 * ~~Collecting and counting~~(Los objetos-puntos tienen collider)
-* Displaying text
-* Publishing the game
+* ~~Displaying text~~
+* ~~Publishing the game~~
 
 
 Url Fuente: http://unity3d.com/es/learn/tutorials/projects/roll-a-ball/introduction
